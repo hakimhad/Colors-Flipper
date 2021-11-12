@@ -1,0 +1,30 @@
+*, body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+
+}
+#color-name{
+    width: auto;
+    margin: 0 auto;
+    font-size: 1.5em;
+    /* border: 3px solid white; */
+    border-radius: 0.2em;
+    padding:10px 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    text-align: center;
+    text-transform: capitalize;
+}
+#click-me{
+    width: 150px;
+    margin: 0 auto;
+    font-size: 1.2em;
+    border: 3px solid white;
+    border-radius: 5px;
+    background-color: white;
+    
+}
